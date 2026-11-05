@@ -1,0 +1,14 @@
+/home/paulo-lima/Documentos/dotnet/SimulacaoBanco/obj/Debug/net10.0/SimulacaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo-lima/Documentos/dotnet/SimulacaoBanco/obj/Debug/net10.0/SimulacaoBanco.AssemblyInfoInputs.cache
+/home/paulo-lima/Documentos/dotnet/SimulacaoBanco/obj/Debug/net10.0/SimulacaoBanco.AssemblyInfo.cs
+/home/paulo-lima/Documentos/dotnet/SimulacaoBanco/obj/Debug/net10.0/SimulacaoBanco.csproj.CoreCompileInputs.cache
+/home/paulo-lima/Documentos/dotnet/SimulacaoBanco/bin/Debug/net10.0/SimulacaoBanco
+/home/paulo-lima/Documentos/dotnet/SimulacaoBanco/bin/Debug/net10.0/SimulacaoBanco.deps.json
+/home/paulo-lima/Documentos/dotnet/SimulacaoBanco/bin/Debug/net10.0/SimulacaoBanco.runtimeconfig.json
+/home/paulo-lima/Documentos/dotnet/SimulacaoBanco/bin/Debug/net10.0/SimulacaoBanco.dll
+/home/paulo-lima/Documentos/dotnet/SimulacaoBanco/bin/Debug/net10.0/SimulacaoBanco.pdb
+/home/paulo-lima/Documentos/dotnet/SimulacaoBanco/obj/Debug/net10.0/SimulacaoBanco.dll
+/home/paulo-lima/Documentos/dotnet/SimulacaoBanco/obj/Debug/net10.0/refint/SimulacaoBanco.dll
+/home/paulo-lima/Documentos/dotnet/SimulacaoBanco/obj/Debug/net10.0/SimulacaoBanco.pdb
+/home/paulo-lima/Documentos/dotnet/SimulacaoBanco/obj/Debug/net10.0/SimulacaoBanco.genruntimeconfig.cache
+/home/paulo-lima/Documentos/dotnet/SimulacaoBanco/obj/Debug/net10.0/ref/SimulacaoBanco.dll
